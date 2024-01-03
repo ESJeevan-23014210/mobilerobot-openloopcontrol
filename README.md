@@ -26,7 +26,7 @@ Take the measurement of the track on each and every turn and gives the values tr
  Run the program to see the roboto movement
 
 ## Program
-python
+```python
 #Developed by: Jeevan ES
 #Register no: 212223230091
 
@@ -92,7 +92,7 @@ if _name_ == '_main_':
     print("Stopped video streaming.....")
 
     ep_robot.close()
-
+```
 
 ## MobileRobot Movement Image:
 ![Videoshot_20240102_130011](https://github.com/ESJeevan-23014210/mobilerobot-openloopcontrol/assets/147139456/215601b4-20be-408e-91af-80a3ebf0ad26)
