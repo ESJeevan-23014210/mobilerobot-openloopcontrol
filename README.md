@@ -93,7 +93,8 @@ if _name_ == '_main_':
     ep_robot.close()
 ```
 ## MobileRobot Movement Image:
-![Videoshot_20240102_130011](https://github.com/ESJeevan-23014210/mobilerobot-openloopcontrol/assets/147139456/215601b4-20be-408e-91af-80a3ebf0ad26)
+![Videoshot_20240102_130011](https://github.com/ESJeevan-23014210/mobilerobot-openloopcontrol/assets/147139456/7ba84d2b-2357-4529-a4a9-8f31043eba02)
+
 
 ## MobileRobot Movement Video:
 Youtube Link: https://youtu.be/dmMFeZLrbQk?si=sMExSaGjsemkW66h
