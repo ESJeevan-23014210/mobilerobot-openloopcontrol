@@ -1,7 +1,6 @@
 # MobileRobot-Openloopcontrol
 ## Date:29/12/2023
 ## Aim:
-
 To develop a python control code to move the mobilerobot along the predefined path.
 
 ## Equipments Required:
@@ -93,10 +92,8 @@ if _name_ == '_main_':
 
     ep_robot.close()
 ```
-
 ## MobileRobot Movement Image:
 ![Videoshot_20240102_130011](https://github.com/ESJeevan-23014210/mobilerobot-openloopcontrol/assets/147139456/215601b4-20be-408e-91af-80a3ebf0ad26)
-
 
 ## MobileRobot Movement Video:
 Youtube Link: https://youtu.be/dmMFeZLrbQk?si=sMExSaGjsemkW66h
